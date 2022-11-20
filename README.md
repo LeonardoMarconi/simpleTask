@@ -16,7 +16,6 @@ O Simple Task é uma aplicação onde você cria uma conta, realiza login e gere
 
 ## 📷 Screenshots  
 <div style="flex-direction: row;">
-https://drive.google.com/file/d//view?usp=sharing
 <img style="flex-direction: row;" alt="Tela 1" src="https://drive.google.com/uc?export=view&id=1C4ffkZs0JcC_32-d1jzkd5lsw9uVgw-3" width="150" height="300">
 <img style="flex-direction: row;" alt="Tela 2" src="https://drive.google.com/uc?export=view&id=1OWCPNcOVX0gCGS7E6ml7s4HgPWa67E8Z" width="150" height="300">
 <img style="flex-direction: row;" alt="Tela 1" src="https://drive.google.com/uc?export=view&id=16SuhLa9XuX-HLp5d2cYIpILY9fhkK5mi" width="150" height="300">
